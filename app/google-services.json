@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435542701863",
+    "firebase_url": "https://fir-course-4da47-default-rtdb.firebaseio.com",
+    "project_id": "fir-course-4da47",
+    "storage_bucket": "fir-course-4da47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435542701863:android:fc1e8f91092cce14919b02",
+        "android_client_info": {
+          "package_name": "com.example.mycourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435542701863-o0i8rkhlm81relqu4insi17j5td6h766.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycourse",
+            "certificate_hash": "841c86ad5af86092454a8ffd7f2f8867aaa88ffa"
+          }
+        },
+        {
+          "client_id": "435542701863-9pa8b9g5tesh6vjtfspvr8s2jisp9r0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSRDDoeB54fnPCFzl8k4pPQ_vxT_OaxyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435542701863-9pa8b9g5tesh6vjtfspvr8s2jisp9r0f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "435542701863-adit4ietl1de62uc6ip7jrik382vtaeg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mycourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
